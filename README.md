@@ -1,0 +1,1 @@
+# transformar-uma-imagem-colorida-em-n-veis-de-cinza
